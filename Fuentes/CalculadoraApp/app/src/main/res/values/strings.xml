@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CalculadoraApp</string>
+    <string name="texto1">Hola mundo</string>
+    <string name="sumarText">+</string>
+    <string name="n1Label">N1</string>
+    <string name="n2Label">N2</string>
+    <string name="restarText">-</string>
+    <string name="multiplicarText">*</string>
+    <string name="dividirText">/</string>
+
 </resources>
